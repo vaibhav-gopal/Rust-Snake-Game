@@ -1,4 +1,6 @@
+
 # Rust Snake Game
+
 ## By : Vaibhav Gopal
 
 Super basic GUI game based on rust
